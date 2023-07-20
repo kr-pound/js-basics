@@ -1,7 +1,5 @@
 # Ignore directories
-arrays/
 functions/
-objects/
 
 # Ignore specific files
 index.html
