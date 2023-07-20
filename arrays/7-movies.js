@@ -11,4 +11,4 @@ const titles = movies
     .reverse()
     .map((movie) => movie.title);
 
-output.forEach(movie => console.log(movie));
+titles.forEach(movie => console.log(movie));
