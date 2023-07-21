@@ -1,6 +1,2 @@
-# Ignore directories
-functions/
-
-# Ignore specific files
 index.html
 index.js
